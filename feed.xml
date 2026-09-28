@@ -7,6 +7,7 @@
     <ProductType>Легковые шины</ProductType>
     <AdType>Товар приобретен на продажу</AdType>
     <Condition>Б/у</Condition>
+    <Title>Bridgestone Ice Cruiser 7000 205/55 R16 VW Passat</Title>
     <Brand>Bridgestone</Brand>
     <Model>Ice Cruiser 7000</Model>
     <TireSectionWidth>205</TireSectionWidth>
@@ -19,12 +20,24 @@
     <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
     <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
     <OtherDefects>Без дефектов</OtherDefects>
-    <Address>Москва, Крылатская улица</Address>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 915 260-91-90</ContactPhone>
-    <Description><![CDATA[ПРОБНАЯ ЗАГРУЗКА — объявление намеренно без цены, публиковаться не должно.
+    <Description><![CDATA[Bridgestone Ice Cruiser 7000, 205/55 R16, зима с шипами, 4 шины без дисков. Ездили на VW Passat.
 
-Комплект зимних шипованных шин Bridgestone Ice Cruiser 7000, 205/55 R16, 4 шт. Стояли на VW Passat.
-Дата выпуска: 8-я неделя 2019 г. Остаток протектора: 5,5–6,5 мм по замеру. Страна производства: Россия. Без дисков.
-Самовывоз, Москва, Крылатское.]]></Description>
+Выпуск: 8-я неделя 2019 года, Россия. Протектор по замеру 5,5–6,5 мм. Ремонтов не было.
+
+Велоклуб «Крылатское» распродаёт резину автопарка — отсюда и цена. Указана за четыре шины. Самовывоз, Москва, район Крылатское. Приезжайте с глубиномером, проверите сами.
+
+Дополнительные фото пришлю в сообщениях.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/6/6-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/6/6-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/6/6-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/6/6-04.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/6/6-05.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/6/6-06.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/6/6-07.jpeg"/>
+    </Images>
   </Ad>
 </Ads>
