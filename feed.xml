@@ -1,6 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito">
   <Ad>
+    <Id>rezina-01</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Колёса</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Title>Nordman 7 205/55 R16 на дисках, VW Jetta</Title>
+    <Price>25000</Price>
+    <Brand>Nordman</Brand>
+    <Model>Nordman 7</Model>
+    <TireSectionWidth>205</TireSectionWidth>
+    <TireAspectRatio>55</TireAspectRatio>
+    <RimDiameter>16</RimDiameter>
+    <TireType>Зимние шипованные</TireType>
+    <Quantity>за 4 шт.</Quantity>
+    <TireYear>2017</TireYear>
+    <ResidualTread>5.6</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <RimType>Литые</RimType>
+    <RimWidth>6.5</RimWidth>
+    <RimOffset>50</RimOffset>
+    <RimBolts>5</RimBolts>
+    <RimBoltsDiameter>112</RimBoltsDiameter>
+    <RimDIA>57.1</RimDIA>
+    <Address>Москва, ул. Крылатская, 10</Address>
+    <Description><![CDATA[Зимние шипованные колёса в сборе Nokian Nordman 7, 205/55 R16, 4 штуки на неоригинальных дисках. Снял с VW Jetta, машина ушла из автопарка, колёса остались.
+
+По шинам: выпуск 18-я неделя 2017 года, сделаны в России. Протектор мерил сам — 5,6–6,2 мм по четырём колёсам.
+
+Продаю от Велоклуба «Крылатское», распродаём резину автопарка. Цена за комплект из четырёх колёс. Забирать самовывозом в Крылатском, Москва. Можно приехать, посмотреть и промерить протектор своим глубиномером.
+
+Вопросы по конкретному колесу — пишите в чат, сфотографирую крупно.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/1/1-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/1/1-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/1/1-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/1/1-04.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/1/1-05.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/1/1-06.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/1/1-07.jpeg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>rezina-02</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Колёса</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Title>Nokian Hakkapeliitta 8 205/60 R16 диски Opel Astra</Title>
+    <Price>11000</Price>
+    <Brand>Nokian Tyres</Brand>
+    <Model>Hakkapeliitta 8</Model>
+    <TireSectionWidth>205</TireSectionWidth>
+    <TireAspectRatio>60</TireAspectRatio>
+    <RimDiameter>16</RimDiameter>
+    <TireType>Зимние шипованные</TireType>
+    <Quantity>за 4 шт.</Quantity>
+    <TireYear>2017</TireYear>
+    <ResidualTread>6</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <RimType>Штампованные</RimType>
+    <RimWidth>6.5</RimWidth>
+    <RimOffset>39</RimOffset>
+    <RimBolts>5</RimBolts>
+    <RimBoltsDiameter>105</RimBoltsDiameter>
+    <RimDIA>56.6</RimDIA>
+    <Address>Москва, ул. Крылатская, 10</Address>
+    <Description><![CDATA[Комплект Nokian Hakkapeliitta 8, 205/60 R16, зима, шипы. Четыре колеса в сборе на штампованных дисках, стояли на Opel Astra. В придачу три колпака.
+
+Дата выпуска шин — 40-я неделя 2017 года, производство Россия. Остаток протектора по замеру 6–6,5 мм.
+
+Это распродажа автопарка Велоклуба «Крылатское»: машины продали, резину складировать негде. Цена указана за все четыре колеса. Самовывоз из Крылатского (Москва), посмотреть можно в любой будний день.
+
+Напишите — пришлю дополнительные фото дисков и протектора.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/2/2-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/2/2-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/2/2-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/2/2-04.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/2/2-05.jpeg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>rezina-03</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Легковые шины</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Title>Cordiant Off Road 2 215/65 R16 летние, 4 шт</Title>
+    <Price>7000</Price>
+    <Brand>Cordiant</Brand>
+    <Model>Off Road 2</Model>
+    <TireSectionWidth>215</TireSectionWidth>
+    <TireAspectRatio>65</TireAspectRatio>
+    <RimDiameter>16</RimDiameter>
+    <TireType>Летние</TireType>
+    <Quantity>за 4 шт.</Quantity>
+    <TireYear>2020</TireYear>
+    <ResidualTread>6</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <Address>Москва, ул. Крылатская, 10</Address>
+    <Description><![CDATA[Летние шины Cordiant Off Road 2 (рисунок All Terrain), 215/65 R16, 4 штуки, без дисков. Ездили на Nissan Qashqai.
+
+Выпуск — 10-я неделя 2020 года, Россия. Протектор 6–6,5 мм (замерял глубиномером). Без ремонтов.
+
+Продаёт Велоклуб «Крылатское», освобождаем склад от резины автопарка. Цена за четыре шины. Самовывоз, Москва, Крылатское. Приезжайте, покажу каждую шину и дам промерить.
+
+По вопросам — в сообщения, отвечаю быстро.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/3/3-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/3/3-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/3/3-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/3/3-04.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/3/3-05.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/3/3-06.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/3/3-07.jpeg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>rezina-04</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Легковые шины</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Title>Gislaved Nord Frost 200 205/65 R16 + 2 диска</Title>
+    <Price>10000</Price>
+    <Brand>Gislaved</Brand>
+    <Model>Nord Frost 200</Model>
+    <TireSectionWidth>205</TireSectionWidth>
+    <TireAspectRatio>65</TireAspectRatio>
+    <RimDiameter>16</RimDiameter>
+    <TireType>Зимние шипованные</TireType>
+    <Quantity>за 4 шт.</Quantity>
+    <TireYear>2018</TireYear>
+    <ResidualTread>6.5</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <Address>Москва, ул. Крылатская, 10</Address>
+    <Description><![CDATA[Gislaved Nord Frost 200, 205/65 R16, зимние шипованные, 4 шины. Стояли на Hyundai Creta. Бонусом отдаю два штампованных диска (на два колеса, не на все четыре).
+
+Шины 40-й недели 2018 года, произведены в России. Протектор по замеру 6,5–7 мм.
+
+Резина из автопарка Велоклуба «Крылатское», распродаём всё, что осталось после продажи машин. Цена — за четыре шины вместе с двумя дисками. Самовывоз в Крылатском, Москва.
+
+Живые фото каждой шины — по запросу в чате.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/4/4-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/4/4-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/4/4-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/4/4-04.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/4/4-05.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/4/4-06.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/4/4-07.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/4/4-08.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/4/4-09.jpeg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>rezina-05</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Колёса</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Title>Nexen Winguard WinSpike 185/65 R14 на дисках Kia</Title>
+    <Price>15000</Price>
+    <Brand>Nexen</Brand>
+    <Model>Winguard WinSpike</Model>
+    <TireSectionWidth>185</TireSectionWidth>
+    <TireAspectRatio>65</TireAspectRatio>
+    <RimDiameter>14</RimDiameter>
+    <TireType>Зимние шипованные</TireType>
+    <Quantity>за 4 шт.</Quantity>
+    <TireYear>2020</TireYear>
+    <ResidualTread>7.5</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <RimType>Штампованные</RimType>
+    <RimWidth>5.5</RimWidth>
+    <RimOffset>45</RimOffset>
+    <RimBolts>4</RimBolts>
+    <RimBoltsDiameter>100</RimBoltsDiameter>
+    <RimDIA>56.1</RimDIA>
+    <Address>Москва, ул. Крылатская, 10</Address>
+    <Description><![CDATA[Четыре зимних шипованных колеса в сборе Nexen Winguard WinSpike 185/65 R14 на оригинальных дисках Kia (маркировка 5.5Jx14 H2 ET45). Снял с Kia Spectra.
+
+Шины 18-й недели 2020 года, Корея. Остаток протектора 7,5–8 мм — из всей партии это один из самых свежих комплектов.
+
+Продаю от автопарка Велоклуба «Крылатское». Цена за четыре колеса в сборе. Забирать в Крылатском (Москва), самовывоз.
+
+Пишите, если нужны фото маркировки или дисков вблизи.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/5/5-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/5/5-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/5/5-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/5/5-04.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/5/5-05.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/5/5-06.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/5/5-07.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/5/5-08.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/5/5-09.jpeg"/>
+    </Images>
+  </Ad>
+  <Ad>
     <Id>rezina-06</Id>
     <Category>Запчасти и аксессуары</Category>
     <GoodsType>Шины, диски и колёса</GoodsType>
@@ -8,6 +228,7 @@
     <AdType>Товар приобретен на продажу</AdType>
     <Condition>Б/у</Condition>
     <Title>Bridgestone Ice Cruiser 7000 205/55 R16 VW Passat</Title>
+    <Price>18000</Price>
     <Brand>Bridgestone</Brand>
     <Model>Ice Cruiser 7000</Model>
     <TireSectionWidth>205</TireSectionWidth>
@@ -22,7 +243,6 @@
     <OtherDefects>Без дефектов</OtherDefects>
     <DifferentWidthTires>Нет</DifferentWidthTires>
     <Address>Москва, ул. Крылатская, 10</Address>
-    <ContactPhone>+7 915 260-91-90</ContactPhone>
     <Description><![CDATA[Bridgestone Ice Cruiser 7000, 205/55 R16, зима с шипами, 4 шины без дисков. Ездили на VW Passat.
 
 Выпуск: 8-я неделя 2019 года, Россия. Протектор по замеру 5,5–6,5 мм. Ремонтов не было.
@@ -38,6 +258,617 @@
       <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/6/6-05.jpeg"/>
       <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/6/6-06.jpeg"/>
       <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/6/6-07.jpeg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>rezina-07</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Колёса</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Title>Toyo Observe GSi-5 205/60 R16 на дисках Renault</Title>
+    <Price>16000</Price>
+    <Brand>Toyo</Brand>
+    <Model>Observe GSi-5</Model>
+    <TireSectionWidth>205</TireSectionWidth>
+    <TireAspectRatio>60</TireAspectRatio>
+    <RimDiameter>16</RimDiameter>
+    <TireType>Зимние нешипованные</TireType>
+    <Quantity>за 4 шт.</Quantity>
+    <TireYear>2015</TireYear>
+    <ResidualTread>6</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <RimType>Литые</RimType>
+    <RimWidth>6.5</RimWidth>
+    <RimOffset>47</RimOffset>
+    <RimBolts>5</RimBolts>
+    <RimBoltsDiameter>114.3</RimBoltsDiameter>
+    <RimDIA>66.1</RimDIA>
+    <Address>Москва, ул. Крылатская, 10</Address>
+    <Description><![CDATA[Зимние нешипованные колёса в сборе (липучка) Toyo Observe GSi-5, 205/60 R16, четыре штуки на оригинальных литых дисках Renault. Стояли на Renault Fluence.
+
+Шины японского производства, дата выпуска 15-я неделя 2015 года. Протектор 6 мм по замеру.
+
+Комплект из автопарка Велоклуба «Крылатское», распродаём остатки. Цена за четыре колеса в сборе. Самовывоз из Крылатского в Москве, показать и дать промерить — без проблем.
+
+За подробностями по каждому колесу — в чат.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/7/7-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/7/7-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/7/7-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/7/7-04.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/7/7-05.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/7/7-06.jpeg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>rezina-08</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Колёса</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Title>2 колеса Hankook Winter i*Pike RS 185/65 R15</Title>
+    <Price>5000</Price>
+    <Brand>Hankook</Brand>
+    <Model>Winter i*Pike RS</Model>
+    <TireSectionWidth>185</TireSectionWidth>
+    <TireAspectRatio>65</TireAspectRatio>
+    <RimDiameter>15</RimDiameter>
+    <TireType>Зимние шипованные</TireType>
+    <Quantity>за 2 шт.</Quantity>
+    <TireYear>2013</TireYear>
+    <ResidualTread>5</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <RimType>Литые</RimType>
+    <RimWidth>6</RimWidth>
+    <RimOffset>48</RimOffset>
+    <RimBolts>4</RimBolts>
+    <RimBoltsDiameter>100</RimBoltsDiameter>
+    <RimDIA>54.1</RimDIA>
+    <Address>Москва, ул. Крылатская, 10</Address>
+    <Description><![CDATA[Пара зимних шипованных колёс в сборе Hankook Winter i*Pike RS, 185/65 R15, на неоригинальных дисках. Именно два колеса, не четыре. Стояли на Hyundai Solaris.
+
+Шины 25-й недели 2013 года, Корея.
+
+Распродажа резины автопарка Велоклуба «Крылатское». Цена за два колеса. Самовывоз, Москва, Крылатское.
+
+Подойдут как запасные или на замену паре. Фото протектора вблизи — по запросу.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/8/8-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/8/8-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/8/8-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/8/8-04.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/8/8-05.jpeg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>rezina-09</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Легковые шины</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Title>Hankook Winter i*Pike RW11 225/65 R17, 4 шт</Title>
+    <Price>5000</Price>
+    <Brand>Hankook</Brand>
+    <Model>Winter i*Pike RW11</Model>
+    <TireSectionWidth>225</TireSectionWidth>
+    <TireAspectRatio>65</TireAspectRatio>
+    <RimDiameter>17</RimDiameter>
+    <TireType>Зимние шипованные</TireType>
+    <Quantity>за 4 шт.</Quantity>
+    <TireYear>2011</TireYear>
+    <ResidualTread>7</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <Address>Москва, ул. Крылатская, 10</Address>
+    <Description><![CDATA[Hankook Winter i*Pike RW11, 225/65 R17, зимняя модель, 4 шины без дисков. Снял с Toyota RAV4.
+
+Выпуск 23-я неделя 2011 года, Корея. Протектор по замеру 7 мм.
+
+Продаёт Велоклуб «Крылатское» — освобождаем склад от резины автопарка, цена соответствующая. За четыре шины. Самовывоз из Крылатского, Москва. Осмотр перед покупкой приветствуется.
+
+Отвечу на любые вопросы в сообщениях.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/9/9-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/9/9-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/9/9-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/9/9-04.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/9/9-05.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/9/9-06.jpeg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>rezina-10</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Колёса</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Title>Cordiant Snow Cross 205/60 R16 на дисках Kia Soul</Title>
+    <Price>15000</Price>
+    <Brand>Cordiant</Brand>
+    <Model>Snow Cross</Model>
+    <TireSectionWidth>205</TireSectionWidth>
+    <TireAspectRatio>60</TireAspectRatio>
+    <RimDiameter>16</RimDiameter>
+    <TireType>Зимние шипованные</TireType>
+    <Quantity>за 4 шт.</Quantity>
+    <TireYear>2024</TireYear>
+    <ResidualTread>9.5</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <RimType>Штампованные</RimType>
+    <RimWidth>6.5</RimWidth>
+    <RimOffset>47</RimOffset>
+    <RimBolts>5</RimBolts>
+    <RimBoltsDiameter>114.3</RimBoltsDiameter>
+    <RimDIA>67.1</RimDIA>
+    <Address>Москва, ул. Крылатская, 10</Address>
+    <Description><![CDATA[Cordiant Snow Cross 205/60 R16 — зимние шипованные колёса в сборе, 4 штуки на штампованных дисках. Стояли на Kia Soul.
+
+Шины 2024 года выпуска (20-я неделя), Россия. Протектор 9,5–10 мм — практически новые, откатали один сезон.
+
+Комплект из автопарка Велоклуба «Крылатское», продаём вместе с остальной резиной парка. Цена за четыре колеса. Самовывоз, Москва, Крылатское.
+
+Могу снять видео протектора и дисков — напишите.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/10/10-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/10/10-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/10/10-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/10/10-04.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/10/10-05.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/10/10-06.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/10/10-07.jpeg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>rezina-11</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Колёса</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Title>Колёса 195/65 R15 Nokian R3 + Ikon, диски Kia Ceed</Title>
+    <Price>7000</Price>
+    <Brand>Nokian Tyres</Brand>
+    <Model>Hakkapeliitta R3</Model>
+    <TireSectionWidth>195</TireSectionWidth>
+    <TireAspectRatio>65</TireAspectRatio>
+    <RimDiameter>15</RimDiameter>
+    <TireType>Зимние нешипованные</TireType>
+    <Quantity>за 4 шт.</Quantity>
+    <TireYear>2022</TireYear>
+    <ResidualTread>4</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <RimType>Штампованные</RimType>
+    <RimWidth>6</RimWidth>
+    <RimOffset>46</RimOffset>
+    <RimBolts>5</RimBolts>
+    <RimBoltsDiameter>114.3</RimBoltsDiameter>
+    <RimDIA>67.1</RimDIA>
+    <Address>Москва, ул. Крылатская, 10</Address>
+    <Description><![CDATA[Четыре зимних нешипованных колеса в сборе 195/65 R15 на штампованных дисках, с Kia Ceed. Состав: три шины Nokian Hakkapeliitta R3 2022 года и одна Ikon Tyres Snow 3 2024 года (Ikon — это тот же завод Nokian в России под новым именем, рисунок совместимый).
+
+Остаток протектора по замеру 4–5 мм. Производство Россия.
+
+Распродажа резины автопарка Велоклуба «Крылатское». Цена за четыре колеса в сборе. Самовывоз в Крылатском, Москва.
+
+Покажу каждое колесо отдельно, фото — в чат по запросу.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/11/11-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/11/11-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/11/11-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/11/11-04.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/11/11-05.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/11/11-06.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/11/11-07.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/11/11-08.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/11/11-09.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/11/11-10.jpeg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>rezina-12</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Легковые шины</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Title>Viatti Bosco A/T 215/65 R16 летние, 4 шт</Title>
+    <Price>5000</Price>
+    <Brand>Viatti</Brand>
+    <Model>Bosco A/T</Model>
+    <TireSectionWidth>215</TireSectionWidth>
+    <TireAspectRatio>65</TireAspectRatio>
+    <RimDiameter>16</RimDiameter>
+    <TireType>Летние</TireType>
+    <Quantity>за 4 шт.</Quantity>
+    <TireYear>2016</TireYear>
+    <ResidualTread>3</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <Address>Москва, ул. Крылатская, 10</Address>
+    <Description><![CDATA[Летняя резина Viatti Bosco A/T, 215/65 R16, четыре шины без дисков. Ездили на Nissan X-Trail.
+
+Выпуск 17-я неделя 2016 года, Россия. Протектор 3–3,5 мм по замеру — на сезон-другой.
+
+Продаёт Велоклуб «Крылатское»: автопарк распродан, резину отдаём недорого. Цена за четыре шины. Самовывоз, Москва, Крылатское.
+
+Вопросы и фото — в сообщениях.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/12/12-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/12/12-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/12/12-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/12/12-04.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/12/12-05.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/12/12-06.jpeg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>rezina-13</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Колёса</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Title>BFGoodrich G-Grip 235/50 R18 на дисках Ford Kuga</Title>
+    <Price>25000</Price>
+    <Brand>Bfgoodrich</Brand>
+    <Model>G-Grip</Model>
+    <TireSectionWidth>235</TireSectionWidth>
+    <TireAspectRatio>50</TireAspectRatio>
+    <RimDiameter>18</RimDiameter>
+    <TireType>Летние</TireType>
+    <Quantity>за 4 шт.</Quantity>
+    <TireYear>2016</TireYear>
+    <ResidualTread>3</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <RimType>Литые</RimType>
+    <RimWidth>7.5</RimWidth>
+    <RimOffset>52.5</RimOffset>
+    <RimBolts>5</RimBolts>
+    <RimBoltsDiameter>108</RimBoltsDiameter>
+    <RimDIA>63.4</RimDIA>
+    <Address>Москва, ул. Крылатская, 10</Address>
+    <Description><![CDATA[Летние колёса в сборе на оригинальных дисках Ford: BFGoodrich G-Grip 235/50 R18, 4 штуки. Сняты с Ford Kuga.
+
+Шины 32-й недели 2016 года, Румыния. Остаток протектора по замеру 3–3,5 мм. Основная ценность комплекта — родные диски Ford R18.
+
+Распродажа автопарка Велоклуба «Крылатское». Цена за четыре колеса в сборе. Самовывоз из Крылатского, Москва. Осмотр дисков и шин на месте.
+
+Детальные фото дисков пришлю по запросу.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/13/13-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/13/13-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/13/13-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/13/13-04.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/13/13-05.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/13/13-06.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/13/13-07.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/13/13-08.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/13/13-09.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/13/13-10.jpeg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>rezina-15</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Колёса</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Title>Tigar Ice 205/60 R16 на оригинальных дисках BMW</Title>
+    <Price>15000</Price>
+    <Brand>Tigar</Brand>
+    <Model>Ice</Model>
+    <TireSectionWidth>205</TireSectionWidth>
+    <TireAspectRatio>60</TireAspectRatio>
+    <RimDiameter>16</RimDiameter>
+    <TireType>Зимние шипованные</TireType>
+    <Quantity>за 4 шт.</Quantity>
+    <TireYear>2021</TireYear>
+    <ResidualTread>6.5</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <RimType>Литые</RimType>
+    <RimWidth>7</RimWidth>
+    <RimOffset>20</RimOffset>
+    <RimBolts>5</RimBolts>
+    <RimBoltsDiameter>120</RimBoltsDiameter>
+    <RimDIA>72.6</RimDIA>
+    <Address>Москва, ул. Крылатская, 10</Address>
+    <Description><![CDATA[Зимние шипованные колёса в сборе Tigar Ice 205/60 R16 на оригинальных дисках BMW (маркировка 7Jx16 H2 IS20, сделаны в Италии). Четыре штуки, стояли на BMW 5 серии.
+
+Шины 35-й недели 2021 года, Сербия. Протектор 6,5–7 мм по замеру.
+
+Комплект из автопарка Велоклуба «Крылатское», распродаём резину парка. Цена за четыре колеса. Самовывоз, Москва, Крылатское.
+
+Маркировку дисков и протектор сфотографирую крупно — пишите.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/15/15-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/15/15-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/15/15-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/15/15-04.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/15/15-05.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/15/15-06.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/15/15-07.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/15/15-08.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/15/15-09.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/15/15-10.jpeg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>rezina-16</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Легковые шины</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Title>Bridgestone Alenza 245/50 R19 летние, 4 шт</Title>
+    <Price>5000</Price>
+    <Brand>Bridgestone</Brand>
+    <Model>Alenza</Model>
+    <TireSectionWidth>245</TireSectionWidth>
+    <TireAspectRatio>50</TireAspectRatio>
+    <RimDiameter>19</RimDiameter>
+    <TireType>Летние</TireType>
+    <Quantity>за 4 шт.</Quantity>
+    <TireYear>2019</TireYear>
+    <ResidualTread>3.5</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <Address>Москва, ул. Крылатская, 10</Address>
+    <Description><![CDATA[Bridgestone Alenza, 245/50 R19, лето, четыре шины без дисков. Ездили на Chery Tiggo 7.
+
+Выпуск 6-я неделя 2019 года, США. Остаток протектора по замеру 3,5–4 мм. Без ремонтов.
+
+Велоклуб «Крылатское» распродаёт резину своего автопарка. Цена за четыре шины. Самовывоз из Крылатского (Москва), посмотреть и промерить можно перед покупкой.
+
+Фото в деталях — по запросу в чат.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/16/16-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/16/16-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/16/16-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/16/16-04.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/16/16-05.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/16/16-06.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/16/16-07.jpeg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>rezina-17</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Легковые шины</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Title>Continental 275/45 + 305/40 R20 зима, BMW X6</Title>
+    <Price>10000</Price>
+    <Brand>Continental</Brand>
+    <Model>ContiWinterContact</Model>
+    <TireSectionWidth>275</TireSectionWidth>
+    <TireAspectRatio>45</TireAspectRatio>
+    <RimDiameter>20</RimDiameter>
+    <TireType>Зимние нешипованные</TireType>
+    <Quantity>за 4 шт.</Quantity>
+    <TireYear>2019</TireYear>
+    <ResidualTread>4</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <DifferentWidthTires>Да</DifferentWidthTires>
+    <BackTireSectionWidth>305</BackTireSectionWidth>
+    <BackTireAspectRatio>40</BackTireAspectRatio>
+    <BackRimDiameter>20</BackRimDiameter>
+    <Address>Москва, ул. Крылатская, 10</Address>
+    <Description><![CDATA[Разноширокий зимний комплект Continental ContiWinterContact для BMW X6: две шины 275/45 R20 (перед) и две 305/40 R20 (зад). Нешипованные. Без дисков.
+
+Даты выпуска: 275/45 — 23-я неделя 2021 года, 305/40 — 47-я неделя 2019 года. Чехия. Протектор по замеру: 4–4,5 мм на передних, 4–4,2 мм на задних. Ремонтов нет.
+
+Распродажа резины автопарка Велоклуба «Крылатское». Цена за все четыре шины. Самовывоз, Москва, Крылатское.
+
+Пришлю фото маркировки каждой шины — напишите.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/17/17-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/17/17-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/17/17-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/17/17-04.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/17/17-05.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/17/17-06.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/17/17-07.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/17/17-08.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/17/17-09.jpeg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>rezina-18</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Легковые шины</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Title>Michelin X-Ice North 4 245/45 R18 зима шипы, 4 шт</Title>
+    <Price>7500</Price>
+    <Brand>MICHELIN</Brand>
+    <Model>X-Ice North 4</Model>
+    <TireSectionWidth>245</TireSectionWidth>
+    <TireAspectRatio>45</TireAspectRatio>
+    <RimDiameter>18</RimDiameter>
+    <TireType>Зимние шипованные</TireType>
+    <Quantity>за 4 шт.</Quantity>
+    <TireYear>2019</TireYear>
+    <ResidualTread>5.5</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <Address>Москва, ул. Крылатская, 10</Address>
+    <Description><![CDATA[Michelin X-Ice North 4, 245/45 R18, зимние шипованные, четыре шины без дисков.
+
+Выпуск 29-я неделя 2019 года, Польша. Протектор 5,5 мм по замеру.
+
+Продаёт Велоклуб «Крылатское» вместе с остальной резиной автопарка. Цена за четыре штуки. Самовывоз из Крылатского, Москва. Осмотр перед покупкой — пожалуйста.
+
+По каждой шине отдельно расскажу и покажу в сообщениях.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/18/18-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/18/18-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/18/18-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/18/18-04.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/18/18-05.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/18/18-06.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/18/18-07.jpeg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>rezina-19</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Колёса</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Title>Nokian Hakkapeliitta 8 205/55 R16 на штампах, 4 шт</Title>
+    <Price>6000</Price>
+    <Brand>Nokian Tyres</Brand>
+    <Model>Hakkapeliitta 8</Model>
+    <TireSectionWidth>205</TireSectionWidth>
+    <TireAspectRatio>55</TireAspectRatio>
+    <RimDiameter>16</RimDiameter>
+    <TireType>Зимние шипованные</TireType>
+    <Quantity>за 4 шт.</Quantity>
+    <TireYear>2018</TireYear>
+    <ResidualTread>5</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <RimType>Штампованные</RimType>
+    <RimWidth>6.5</RimWidth>
+    <RimOffset>50</RimOffset>
+    <RimBolts>5</RimBolts>
+    <RimBoltsDiameter>114.3</RimBoltsDiameter>
+    <RimDIA>67.1</RimDIA>
+    <Address>Москва, ул. Крылатская, 10</Address>
+    <Description><![CDATA[Nokian Hakkapeliitta 8, 205/55 R16, зима с шипами. Четыре колеса в сборе на штампованных дисках.
+
+Шины 22-й недели 2018 года, Россия. Остаток протектора 5 мм по замеру.
+
+Комплект из автопарка Велоклуба «Крылатское», распродаём. Цена за четыре колеса в сборе. Самовывоз, Москва, Крылатское.
+
+Фото дисков и протектора крупным планом — по запросу.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/19/19-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/19/19-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/19/19-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/19/19-04.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/19/19-05.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/19/19-06.jpeg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>rezina-20</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Колёса</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Title>2 колеса Viatti Brina Nordico 185/65 R16, штампы</Title>
+    <Price>5000</Price>
+    <Brand>Viatti</Brand>
+    <Model>Brina Nordico</Model>
+    <TireSectionWidth>185</TireSectionWidth>
+    <TireAspectRatio>65</TireAspectRatio>
+    <RimDiameter>16</RimDiameter>
+    <TireType>Зимние шипованные</TireType>
+    <Quantity>за 2 шт.</Quantity>
+    <TireYear>2017</TireYear>
+    <ResidualTread>5.5</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <RimType>Штампованные</RimType>
+    <RimWidth>6.5</RimWidth>
+    <RimOffset>50</RimOffset>
+    <RimBolts>5</RimBolts>
+    <RimBoltsDiameter>114.3</RimBoltsDiameter>
+    <RimDIA>67.1</RimDIA>
+    <Address>Москва, ул. Крылатская, 10</Address>
+    <Description><![CDATA[Два зимних шипованных колеса в сборе Viatti Brina Nordico 185/65 R16 на штампованных дисках. Продаются парой, не комплект из четырёх.
+
+Шины 16-й недели 2017 года, Россия. Протектор 5,5 мм.
+
+Распродажа резины автопарка Велоклуба «Крылатское». Цена за пару. Самовывоз, Москва, Крылатское.
+
+Подойдут на замену пары или в запас. Напишите — покажу подробнее.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/20/20-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/20/20-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/20/20-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/20/20-04.jpeg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>rezina-21</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Легковые шины</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Title>2 шины Nexen N'blue 215/55 R17 летние</Title>
+    <Price>5000</Price>
+    <Brand>Nexen</Brand>
+    <Model>N'blue HD</Model>
+    <TireSectionWidth>215</TireSectionWidth>
+    <TireAspectRatio>55</TireAspectRatio>
+    <RimDiameter>17</RimDiameter>
+    <TireType>Летние</TireType>
+    <Quantity>за 2 шт.</Quantity>
+    <TireYear>2018</TireYear>
+    <ResidualTread>5.5</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <Address>Москва, ул. Крылатская, 10</Address>
+    <Description><![CDATA[Две летние шины Nexen N'blue, 215/55 R17, без дисков. Пара, не комплект.
+
+Выпуск 6-я неделя 2018 года, Корея. Протектор 5,5 мм.
+
+Велоклуб «Крылатское» распродаёт резину автопарка. Цена за две шины. Самовывоз из Крылатского, Москва. Посмотреть перед покупкой можно.
+
+Вопросы — в сообщения.]]></Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/21/21-01.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/21/21-02.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/21/21-03.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/21/21-04.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/Grandeur-iu/avito-rezina/master/photos/21/21-05.jpeg"/>
     </Images>
   </Ad>
 </Ads>
