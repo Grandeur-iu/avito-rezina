@@ -75,6 +75,7 @@ def build(items, common):
                 if it.get(k) in (None, ""):
                     problems.append(f"№{n}: нет параметра диска {k} ({t}) — обязателен для «Колёс»")
                 a += tag(t, it.get(k))
+        a += tag("Delivery", "Выключена")   # Авито Доставка отключена (решение Дмитрия 28.09)
         a += tag("Address", common["address"]) + tag("ContactPhone", common["phone"])
         a += f"    <Description><![CDATA[{it['text']}]]></Description>\n"
         ph = photos_for(n, common["photo_base"], it.get("main_photo"))

@@ -28,6 +28,7 @@
     <RimBolts>5</RimBolts>
     <RimBoltsDiameter>112</RimBoltsDiameter>
     <RimDIA>57.1</RimDIA>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Комплект зимних шипованных колёс в сборе Nokian Nordman 7, 205/55 R16, 4 шт., на литых дисках (неоригинальные). Эксплуатировались на VW Jetta.
@@ -75,6 +76,7 @@
     <RimBolts>5</RimBolts>
     <RimBoltsDiameter>105</RimBoltsDiameter>
     <RimDIA>56.6</RimDIA>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Комплект зимних шипованных колёс в сборе Nokian Hakkapeliitta 8, 205/60 R16, 4 шт., на штампованных дисках. Эксплуатировались на Opel Astra. В комплекте 3 колпака.
@@ -114,6 +116,7 @@
     <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
     <OtherDefects>Без дефектов</OtherDefects>
     <DifferentWidthTires>Нет</DifferentWidthTires>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Комплект летних шин Cordiant Off Road 2 (рисунок All Terrain), 215/65 R16, 4 шт., без дисков. Эксплуатировались на Nissan Qashqai.
@@ -155,6 +158,7 @@
     <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
     <OtherDefects>Без дефектов</OtherDefects>
     <DifferentWidthTires>Нет</DifferentWidthTires>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Комплект зимних шипованных шин Gislaved Nord Frost 200, 205/65 R16, 4 шт. В комплекте дополнительно 2 штампованных диска. Эксплуатировались на Hyundai Creta.
@@ -204,6 +208,7 @@
     <RimBolts>4</RimBolts>
     <RimBoltsDiameter>100</RimBoltsDiameter>
     <RimDIA>56.1</RimDIA>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Комплект зимних шипованных колёс в сборе Nexen Winguard WinSpike, 185/65 R14, 4 шт., на оригинальных дисках Kia (5.5Jx14 H2 ET45). Эксплуатировались на Kia Spectra.
@@ -247,6 +252,7 @@
     <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
     <OtherDefects>Без дефектов</OtherDefects>
     <DifferentWidthTires>Нет</DifferentWidthTires>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Комплект зимних шипованных шин Bridgestone Ice Cruiser 7000, 205/55 R16, 4 шт., без дисков. Эксплуатировались на VW Passat.
@@ -294,6 +300,7 @@
     <RimBolts>5</RimBolts>
     <RimBoltsDiameter>114.3</RimBoltsDiameter>
     <RimDIA>66.1</RimDIA>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Комплект зимних нешипованных (фрикционных) колёс в сборе Toyo Observe GSi-5, 205/60 R16, 4 шт., на оригинальных литых дисках Renault. Эксплуатировались на Renault Fluence.
@@ -340,6 +347,7 @@
     <RimBolts>4</RimBolts>
     <RimBoltsDiameter>100</RimBoltsDiameter>
     <RimDIA>54.1</RimDIA>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Два зимних шипованных колеса в сборе Hankook Winter i*Pike RS, 185/65 R15, на литых дисках (неоригинальные, 6Jx15). Продаются парой. Эксплуатировались на Hyundai Solaris.
@@ -379,6 +387,7 @@
     <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
     <OtherDefects>Без дефектов</OtherDefects>
     <DifferentWidthTires>Нет</DifferentWidthTires>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Комплект зимних шин Hankook Winter i*Pike RW11, 225/65 R17, 4 шт., без дисков. Эксплуатировались на Toyota RAV4.
@@ -425,6 +434,7 @@
     <RimBolts>5</RimBolts>
     <RimBoltsDiameter>114.3</RimBoltsDiameter>
     <RimDIA>67.1</RimDIA>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Комплект зимних шипованных колёс в сборе Cordiant Snow Cross, 205/60 R16, 4 шт., на штампованных дисках. Эксплуатировались на Kia Soul один сезон.
@@ -472,6 +482,7 @@
     <RimBolts>5</RimBolts>
     <RimBoltsDiameter>114.3</RimBoltsDiameter>
     <RimDIA>67.1</RimDIA>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Комплект зимних нешипованных (фрикционных) колёс в сборе 195/65 R15, 4 шт., на штампованных дисках. Состав: 3 шт. Nokian Hakkapeliitta R3 (2022 г.) и 1 шт. Ikon Tyres Snow 3 (2024 г.), совместимый рисунок протектора. Эксплуатировались на Kia Ceed.
@@ -516,6 +527,7 @@
     <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
     <OtherDefects>Без дефектов</OtherDefects>
     <DifferentWidthTires>Нет</DifferentWidthTires>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Комплект летних шин Viatti Bosco A/T, 215/65 R16, 4 шт., без дисков. Эксплуатировались на Nissan X-Trail.
@@ -562,6 +574,7 @@
     <RimBolts>5</RimBolts>
     <RimBoltsDiameter>108</RimBoltsDiameter>
     <RimDIA>63.4</RimDIA>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Комплект летних колёс в сборе BFGoodrich G-Grip, 235/50 R18, 4 шт., на оригинальных литых дисках Ford. Эксплуатировались на Ford Kuga.
@@ -612,6 +625,7 @@
     <RimBolts>5</RimBolts>
     <RimBoltsDiameter>120</RimBoltsDiameter>
     <RimDIA>72.6</RimDIA>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Комплект зимних шипованных колёс в сборе Tigar Ice, 205/60 R16, 4 шт., на оригинальных литых дисках BMW (7Jx16 H2 IS20, производство Италия). Эксплуатировались на BMW 5 серии.
@@ -656,6 +670,7 @@
     <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
     <OtherDefects>Без дефектов</OtherDefects>
     <DifferentWidthTires>Нет</DifferentWidthTires>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Комплект летних шин Bridgestone Alenza, 245/50 R19, 4 шт., без дисков. Эксплуатировались на Chery Tiggo 7.
@@ -700,6 +715,7 @@
     <BackTireSectionWidth>305</BackTireSectionWidth>
     <BackTireAspectRatio>40</BackTireAspectRatio>
     <BackRimDiameter>20</BackRimDiameter>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Разноширокий комплект зимних нешипованных шин Continental ContiWinterContact для BMW X6: 2 шт. 275/45 R20 и 2 шт. 305/40 R20. Без дисков.
@@ -743,6 +759,7 @@
     <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
     <OtherDefects>Без дефектов</OtherDefects>
     <DifferentWidthTires>Нет</DifferentWidthTires>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Комплект зимних шипованных шин Michelin X-Ice North 4, 245/45 R18, 4 шт., без дисков.
@@ -790,6 +807,7 @@
     <RimBolts>5</RimBolts>
     <RimBoltsDiameter>114.3</RimBoltsDiameter>
     <RimDIA>67.1</RimDIA>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Комплект зимних шипованных колёс в сборе Nokian Hakkapeliitta 8, 205/55 R16, 4 шт., на штампованных дисках.
@@ -836,6 +854,7 @@
     <RimBolts>5</RimBolts>
     <RimBoltsDiameter>114.3</RimBoltsDiameter>
     <RimDIA>67.1</RimDIA>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Два зимних шипованных колеса в сборе Viatti Brina Nordico, 185/65 R16, на штампованных дисках. Продаются парой.
@@ -874,6 +893,7 @@
     <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
     <OtherDefects>Без дефектов</OtherDefects>
     <DifferentWidthTires>Нет</DifferentWidthTires>
+    <Delivery>Выключена</Delivery>
     <Address>Москва, ул. Крылатская, 10</Address>
     <ContactPhone>+7 993 350-81-27</ContactPhone>
     <Description><![CDATA[Две летние шины Nexen N'blue, 215/55 R17, без дисков. Продаются парой.
