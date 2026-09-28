@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ads formatVersion="3" target="Avito">
+  <Ad>
+    <Id>rezina-06</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <ProductType>Легковые шины</ProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <Brand>Bridgestone</Brand>
+    <Model>Ice Cruiser 7000</Model>
+    <TireSectionWidth>205</TireSectionWidth>
+    <TireAspectRatio>55</TireAspectRatio>
+    <RimDiameter>16</RimDiameter>
+    <TireType>Зимние шипованные</TireType>
+    <Quantity>за 4 шт.</Quantity>
+    <TireYear>2019</TireYear>
+    <ResidualTread>5.5</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Address>Москва, Крылатская улица</Address>
+    <ContactPhone>+7 915 260-91-90</ContactPhone>
+    <Description><![CDATA[ПРОБНАЯ ЗАГРУЗКА — объявление намеренно без цены, публиковаться не должно.
+
+Комплект зимних шипованных шин Bridgestone Ice Cruiser 7000, 205/55 R16, 4 шт. Стояли на VW Passat.
+Дата выпуска: 8-я неделя 2019 г. Остаток протектора: 5,5–6,5 мм по замеру. Страна производства: Россия. Без дисков.
+Самовывоз, Москва, Крылатское.]]></Description>
+  </Ad>
+</Ads>
