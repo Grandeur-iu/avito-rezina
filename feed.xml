@@ -322,7 +322,7 @@
     <Title>2 колеса Hankook Winter i*Pike RS 185/65 R15</Title>
     <Price>5000</Price>
     <Brand>Hankook</Brand>
-    <Model>Winter i*Pike RS W419</Model>
+    <Model>Winter I'Pike RS W419</Model>
     <TireSectionWidth>185</TireSectionWidth>
     <TireAspectRatio>65</TireAspectRatio>
     <RimDiameter>15</RimDiameter>
@@ -367,7 +367,7 @@
     <Title>Hankook Winter i*Pike RW11 225/65 R17, 4 шт</Title>
     <Price>5000</Price>
     <Brand>Hankook</Brand>
-    <Model>Winter i*Pike RW11</Model>
+    <Model>I'Pike RW11</Model>
     <TireSectionWidth>225</TireSectionWidth>
     <TireAspectRatio>65</TireAspectRatio>
     <RimDiameter>17</RimDiameter>
@@ -862,7 +862,7 @@
     <Title>2 шины Nexen N'blue 215/55 R17 летние</Title>
     <Price>5000</Price>
     <Brand>Nexen</Brand>
-    <Model>N'blue HD</Model>
+    <Model>N'Blue HD</Model>
     <TireSectionWidth>215</TireSectionWidth>
     <TireAspectRatio>55</TireAspectRatio>
     <RimDiameter>17</RimDiameter>
