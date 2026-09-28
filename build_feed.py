@@ -37,11 +37,14 @@ def api(path, method="GET", body=None, tok=None):
         return e.code, json.loads(e.read().decode() or "null")
 
 
-def photos_for(num, base):
+def photos_for(num, base, main=None):
     d = os.path.join(HERE, "photos", str(num))
     if not os.path.isdir(d):
         return []
-    return [f"{base}/{num}/{f}" for f in sorted(os.listdir(d)) if f.lower().endswith((".jpg", ".jpeg"))][:10]
+    fs = [f for f in sorted(os.listdir(d)) if f.lower().endswith((".jpg", ".jpeg"))]
+    if main:   # главное фото (общий план) — первым
+        fs.sort(key=lambda f: 0 if f.endswith(f"-{main:02d}.jpg") else 1)
+    return [f"{base}/{num}/{f}" for f in fs][:10]
 
 
 def tag(name, val):
@@ -74,7 +77,7 @@ def build(items, common):
                 a += tag(t, it.get(k))
         a += tag("Address", common["address"]) + tag("ContactPhone", common["phone"])
         a += f"    <Description><![CDATA[{it['text']}]]></Description>\n"
-        ph = photos_for(n, common["photo_base"])
+        ph = photos_for(n, common["photo_base"], it.get("main_photo"))
         if not ph:
             problems.append(f"№{n}: нет фото в photos/{n}")
         a += "    <Images>\n" + "".join(f'      <Image url="{u}"/>\n' for u in ph) + "    </Images>\n"
