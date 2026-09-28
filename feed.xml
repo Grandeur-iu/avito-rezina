@@ -9,7 +9,7 @@
     <Condition>Б/у</Condition>
     <Title>Nordman 7 205/55 R16 на дисках, VW Jetta</Title>
     <Price>25000</Price>
-    <Brand>Nordman</Brand>
+    <Brand>Nokian Tyres</Brand>
     <Model>Nordman 7</Model>
     <TireSectionWidth>205</TireSectionWidth>
     <TireAspectRatio>55</TireAspectRatio>
@@ -322,7 +322,7 @@
     <Title>2 колеса Hankook Winter i*Pike RS 185/65 R15</Title>
     <Price>5000</Price>
     <Brand>Hankook</Brand>
-    <Model>Winter i*Pike RS</Model>
+    <Model>Winter i*Pike RS W419</Model>
     <TireSectionWidth>185</TireSectionWidth>
     <TireAspectRatio>65</TireAspectRatio>
     <RimDiameter>15</RimDiameter>
@@ -644,7 +644,7 @@
     <Title>Bridgestone Alenza 245/50 R19 летние, 4 шт</Title>
     <Price>5000</Price>
     <Brand>Bridgestone</Brand>
-    <Model>Alenza</Model>
+    <Model>Alenza 001</Model>
     <TireSectionWidth>245</TireSectionWidth>
     <TireAspectRatio>50</TireAspectRatio>
     <RimDiameter>19</RimDiameter>
@@ -685,7 +685,7 @@
     <Title>Continental 275/45 + 305/40 R20 зима, BMW X6</Title>
     <Price>10000</Price>
     <Brand>Continental</Brand>
-    <Model>ContiWinterContact</Model>
+    <Model>ContiWinterContact TS 830 P</Model>
     <TireSectionWidth>275</TireSectionWidth>
     <TireAspectRatio>45</TireAspectRatio>
     <RimDiameter>20</RimDiameter>
@@ -818,7 +818,7 @@
     <Title>2 колеса Viatti Brina Nordico 185/65 R16, штампы</Title>
     <Price>5000</Price>
     <Brand>Viatti</Brand>
-    <Model>Brina Nordico</Model>
+    <Model>Brina Nordico V-522</Model>
     <TireSectionWidth>185</TireSectionWidth>
     <TireAspectRatio>65</TireAspectRatio>
     <RimDiameter>16</RimDiameter>
